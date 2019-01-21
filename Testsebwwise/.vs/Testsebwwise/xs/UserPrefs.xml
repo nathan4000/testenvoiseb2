@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A77AF388-0D83-DDDD-0693-61F9080AD40F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Wwise/Deployment/API/Handwritten/Common/AkWwiseInitializationSettings.cs">
+    <Files>
+      <File FileName="Assets/playsoundducul.cs" Line="15" Column="41" />
+      <File FileName="Assets/Wwise/Deployment/API/Handwritten/Common/AkWwiseInitializationSettings.cs" Line="354" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
